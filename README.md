@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there! I'm Adam  👋
+### I'm currtly working on my portfolio page
+ 
+ [here is my Maschenzähler App] (https://maschenzaehler.netlify.app/)
+ [shaking hand gif ] (https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc4dGVld3BnNWRrd2dzNTd3ajRzZWo0MHF5aTBxNGx6ZWxyaHQzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Kql9TaDnFyHwQ/giphy.gif)
+ - HTML
+ - CSS
+ - JavaScript
+
+### Fun Facts:
+I was journalist and photographer in polish 'Times' 
 
 <!--
 **AdamKuzniarski/AdamKuzniarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
