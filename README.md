@@ -1,13 +1,17 @@
-## Hi there! I'm Adam  👋
+## Hi, I'm Adam  👋
 ### Things I code with
 
- JavaScript html5 CSS Brave browser  Prettier 
+```
+const polishGerman = {
+   pronouns: 'he' | 'him',
+   code: ['JavaScript', 'HTML', 'CSS'],
+   challenge: NeueFischeBootcamp,
+
+}
+```
  
- [here is my Maschenzähler App] (https://maschenzaehler.netlify.app/)
- [shaking hand gif ] (https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc4dGVld3BnNWRrd2dzNTd3ajRzZWo0MHF5aTBxNGx6ZWxyaHQzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Kql9TaDnFyHwQ/giphy.gif)
- - HTML
- - CSS
- - JavaScript
+- [here is my Maschenzähler App] (https://maschenzaehler.netlify.app/)
+- [shaking hand gif ] (https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenc4dGVld3BnNWRrd2dzNTd3ajRzZWo0MHF5aTBxNGx6ZWxyaHQzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Kql9TaDnFyHwQ/giphy.gif)
 
 ### Fun Facts:
 I was journalist and photographer in polish 'Times' 
