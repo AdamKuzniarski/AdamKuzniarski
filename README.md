@@ -1,46 +1,60 @@
-## Hi, I'm Adam  👋
-### Things I code with
+Hi, I'm Adam 👋
 
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
+JavaScript Fullstack Developer based in Offenbach am Main 🇩🇪🇵🇱
+
+I build web apps with a focus on clean architecture, clear UIs, and tests.
+Former journalist & photographer—now I translate complex ideas into usable interfaces.
+
+🔧 Tech Stack
+
+Frontend: JavaScript (ES6+), React, Next.js, HTML, CSS
+
+Backend & APIs: Node.js, Express, NestJS, TypeScript
+
+Testing & Quality: Jest, Testing Library, ESLint, Prettier
+
+Tools: Git/GitHub, npm, VS Code, Vercel
+
+🚀 Highlight Projects
+💸 money-manager
+
+Web app for managing income & expenses.
+
+Focus: clear overview of monthly finances
+
+Tech: Next.js, JavaScript, REST API (add specifics as you extend it)
+
+Live: Vercel demo
+
+🛍️ Dashboard-Fullstack
+
+REST API for a simple online store.
+
+Endpoints for products, orders, etc.
+
+Demonstrates clean API structure and TypeScript/Node skills.
+
+📚 book-library-api
+
+Backend for a book library application.
+
+CRUD endpoints for books & categories
+
+Emphasis on structured folder architecture.
 
 
+🧠 Background
 
-```javascript
-const polishGerman = {
-  pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, ],
-  tools: [jQuery],
-  
-  project: {
-                        soundEditor: "EwaWOgrodzie - Podcast",
-                        helper: "FoodsharingOffenbach",
-                      },
- challenge: "I am doing neueFischeBootcamp"
-}
-```
+Bootcamp: neue fische — Web Development
 
+Previously: journalist & photographer at a Polish newspaper
 
- 
-- [here is my Maschenzähler App] (https://maschenzaehler.netlify.app/)
+Today: I write code instead of articles—but the storytelling stays, now in the UI.
 
+📫 Contact
 
-🌱 Continuously learning and empowering myself
+LinkedIn: https://www.linkedin.com/in/adam-kuzniarski/
 
+Email: adam@kuzniarski.de
 
-### Fun Facts:
-I was journalist and photographer in polish 'Times' 
-
-<!--
-**AdamKuzniarski/AdamKuzniarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Continuously learning and empowering myself
