@@ -1,60 +1,44 @@
-Hi, I'm Adam 👋
+# Adam Kuzniarski — Full-Stack TypeScript Developer (Frankfurt Area)
 
-JavaScript Fullstack Developer based in Offenbach am Main 🇩🇪🇵🇱
+I build production-style web apps with **TypeScript**, clean architecture, and a strong focus on **DX, tests, and deployment**.
+Career switcher (former journalist + team lead) — now shipping software.
 
-I build web apps with a focus on clean architecture, clear UIs, and tests.
-Former journalist & photographer—now I translate complex ideas into usable interfaces.
+- 📍 Offenbach am Main (Frankfurt area)
+- 🧠 Currently: **TypeScript / Next.js / NestJS**, learning **Java + Spring Boot**
+- 🧰 Comfort zone: Linux, Docker, VPS deployment (Hetzner), CI-friendly workflows
+- 🌍 Languages: Polish (native), German(native), English
 
-🔧 Tech Stack
+## Featured Projects
 
-Frontend: JavaScript (ES6+), React, Next.js, HTML, CSS
+### 🟩 Happynachbar — neighborhood activities + real-time chat
+A platform to discover, create and discuss local activities (with real-time messaging).
 
-Backend & APIs: Node.js, Express, NestJS, TypeScript
+- Stack: **Next.js (App Router) + TypeScript + Tailwind**, **NestJS + Prisma + PostgreSQL**
+- Real-time: **Socket.IO**
+- Uploads: **S3**
+- Live: https://happynachbar.adamkuzniarski.dev
+- Repo: https://github.com/AdamKuzniarski/happynachbar
 
-Testing & Quality: Jest, Testing Library, ESLint, Prettier
+### 💸 Money Manager 2.0 — personal finance dashboard (monorepo + infra)
+Transactions (income/expense), dashboards (stats/charts), auth, and a deployable server stack.
 
-Tools: Git/GitHub, npm, VS Code, Vercel
+- Stack: **Next.js + TypeScript + Tailwind**, **NestJS + Prisma + PostgreSQL**
+- Infra: **Docker Compose + Caddy**, deploy to **Hetzner VPS** (FE can run on Vercel)
+- Repo: https://github.com/AdamKuzniarski/money-manager-2.0
 
-🚀 Highlight Projects
-💸 money-manager
+### 🧾 Money Manager (v1) — first iteration (Next.js + NextAuth + MongoDB)
+Earlier version built during my learning path. Kept for history; v2 is the current one.
 
-Web app for managing income & expenses.
+- Stack: **Next.js**, **NextAuth**, **MongoDB (Mongoose)**, **i18n**, **Jest**
+- Live: https://money-manager-pi-eight.vercel.app
+- Repo: https://github.com/AdamKuzniarski/money-manager
 
-Focus: clear overview of monthly finances
+## How I like to work
+- Small, readable commits, clear PR descriptions
+- Typed APIs, validation, predictable error handling
+- Tests where they pay off (critical logic + integrations)
+- Docs that help the next developer (or “future me”)
 
-Tech: Next.js, JavaScript, REST API (add specifics as you extend it)
-
-Live: Vercel demo
-
-🛍️ Dashboard-Fullstack
-
-REST API for a simple online store.
-
-Endpoints for products, orders, etc.
-
-Demonstrates clean API structure and TypeScript/Node skills.
-
-📚 book-library-api
-
-Backend for a book library application.
-
-CRUD endpoints for books & categories
-
-Emphasis on structured folder architecture.
-
-
-🧠 Background
-
-Bootcamp: neue fische — Web Development
-
-Previously: journalist & photographer at a Polish newspaper
-
-Today: I write code instead of articles—but the storytelling stays, now in the UI.
-
-📫 Contact
-
-LinkedIn: https://www.linkedin.com/in/adam-kuzniarski/
-
-Email: adam@kuzniarski.de
-
-Continuously learning and empowering myself
+## Contact
+- LinkedIn: https://www.linkedin.com/in/adam-kuzniarski/
+- Email: adam@kuzniarski.de
