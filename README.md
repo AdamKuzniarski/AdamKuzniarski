@@ -10,7 +10,7 @@ Career switcher (former journalist + team lead) — now shipping software.
 
 ## Featured Projects
 
-### 🟩 Happynachbar — neighborhood activities + real-time chat
+### 🟩 happynachbar — neighborhood activities + real-time chat
 A platform to discover, create and discuss local activities (with real-time messaging).
 
 - Stack: **Next.js (App Router) + TypeScript + Tailwind**, **NestJS + Prisma + PostgreSQL**
