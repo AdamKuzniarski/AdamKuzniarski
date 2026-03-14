@@ -24,6 +24,7 @@ Transactions (income/expense), dashboards (stats/charts), auth, and a deployable
 
 - Stack: **Next.js + TypeScript + Tailwind**, **NestJS + Prisma + PostgreSQL**
 - Infra: **Docker Compose + Caddy**, deploy to **Hetzner VPS** (FE can run on Vercel)
+- Live: https://moneymanager.adamkuzniarski.dev
 - Repo: https://github.com/AdamKuzniarski/money-manager-2.0
 
 ### 🧾 Money Manager (v1) — first iteration (Next.js + NextAuth + MongoDB)
