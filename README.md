@@ -41,4 +41,4 @@ Earlier version built during my learning path. Kept for history; v2 is the curre
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/adam-kuzniarski/
-- Email: adam@kuzniarski.de
+- Email: adam.kuzniarski@gmx.de
